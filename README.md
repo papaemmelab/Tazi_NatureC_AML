@@ -1,10 +1,24 @@
-[![DOI](https://zenodo.org/badge/458019383.svg)](https://zenodo.org/badge/latestdoi/458019383)
-# AML_Repo
-Github Repository for Tazi et al. Unified classification and risk-stratification in Acute Myeloid Leukemia. 
-Please check our online tool : https://www.aml-risk-model.com/
+
+# Code accompanying: *Unified classification and risk-stratification in Acute Myeloid Leukemia*
+
+    *Tazi et al.* 
+
+### Please check our online web tool containing detailed biomarker summary information, our AML gene panel, cBIOPORTAL and our personalized calculator: 
+
+### *https://www.aml-risk-model.com/*
+
 ![alt text](data/readme_helper.png?raw=true "Title")
 
-## Installation :
+## :open_file_folder: Repository Structure
+
+- **`data/`**: this directory contains the dataframes necessary to reproduce the results of the study.
+
+- **`src/`**: this directory contains helper to reproduce the results of the study.
+
+- **`./`**: this directory contains the notebooks to reproduce the results of the study. 
+
+
+## :rocket: Getting started with this repository
 
 The code was written in Python 3.7 and R 4.1.0.
 

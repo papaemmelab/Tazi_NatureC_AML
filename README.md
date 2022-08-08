@@ -2,7 +2,7 @@
 
 # Code accompanying: *Unified classification and risk-stratification in Acute Myeloid Leukemia*
 
-*Tazi et al.* 
+[***Tazi et al. Nature Communications***](https://www.nature.com/articles/s41467-022-32103-8)
 
 ### Please check our online web tool containing detailed biomarker summary information, our AML gene panel, cBIOPORTAL and our personalized calculator: 
 
